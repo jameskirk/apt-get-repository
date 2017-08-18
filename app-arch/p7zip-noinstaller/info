@@ -1,0 +1,4 @@
+DESCRIPTION="7-Zip is a file archiver with a high compression ratio. Formats 7z, ZIP, GZIP, BZIP2, TAR." 
+HOMEPAGE="http://www.7-zip.org"
+
+NAME_IN_REGISTRY="7-Zip-no-install*"
